@@ -15,11 +15,11 @@ async function listContacts() {
     }
 }
 
+
 async function getContactById(contactId) {
  try {
         const data = await listContacts();
         const requiredContact = data.find((contact) => contact.id === contactId);
-        console.log(requiredContact);
         return requiredContact ? requiredContact : 0;
     } catch (error) {
       console.log(error);
