@@ -1,6 +1,6 @@
 # Retrieving and displaying the entire list of contacts in a table format (console.table)
 
-<a href="https://monosnap.com/file/9LcIZWxy4dhBGA2T3UfIjox1Iu4qnY"><img src="https://monosnap.com/file/9LcIZWxy4dhBGA2T3UfIjox1Iu4qnY" alt="contacts list"></a>
+<a href="https://monosnap.com/file/9LcIZWxy4dhBGA2T3UfIjox1Iu4qnY"><img src="https://api.monosnap.com/file/download?id=9LcIZWxy4dhBGA2T3UfIjox1Iu4qnY" alt="contacts list"></a>
 
 # Getting a contact by ID
 
